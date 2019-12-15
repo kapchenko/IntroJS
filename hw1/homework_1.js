@@ -4,15 +4,12 @@ let a = 'green';
 let b = 'red';
 
 // Your code
+const c = a ;
+a= b;
+b= c
 
-let c = 2 ;
-if ( c<1){
-    a = b;
 console.log(a); // Should equal 'red'
-}
-else {
-    b=a ; 
-    console.log(b); // Should equal 'green'
-}
+console.log(b); // Should equal 'green'
+
 
 
