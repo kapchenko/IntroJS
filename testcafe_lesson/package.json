@@ -1,0 +1,15 @@
+{
+  "name": "testcafe_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome src/tests/*"
+  },
+  "author": "Polina",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "testcafe": "^1.7.0"
+  }
+}
