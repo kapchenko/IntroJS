@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "faker": "^4.1.0",
-    "testcafe": "^1.7.0"
+    "testcafe": "^1.20.1"
   }
 }
